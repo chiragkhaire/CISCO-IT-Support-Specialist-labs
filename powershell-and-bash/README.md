@@ -1,105 +1,76 @@
-# Windows PowerShell Handbook
+# PowerShell & Bash Administration Handbook
 
-Welcome to my PowerShell handbook.
+This module contains my personal reference handbook for Windows PowerShell and Linux Bash.
 
-This folder contains my notes, examples, scripts, and practical references for Windows PowerShell. The goal is not just to memorize commands but to understand **what they do, when to use them, and why they are useful in real IT support environments.**
-
----
-
-# What is PowerShell?
-
-PowerShell is Microsoft's command-line shell and scripting language.
-
-It is designed for:
-
-- System Administration
-- Automation
-- Troubleshooting
-- Configuration Management
-- Remote Administration
-
-Unlike Command Prompt (CMD), PowerShell works with **objects**, making it much more powerful.
+The goal of this handbook is to go beyond memorizing commands by understanding **what each command does, why it exists, when to use it, and how it applies in real IT Support scenarios.**
 
 ---
 
-# Where is PowerShell Used?
+# Contents
 
-PowerShell is commonly used by:
-
-- IT Support Engineers
-- System Administrators
-- Network Administrators
-- Cloud Engineers
-- Cybersecurity Professionals
-- DevOps Engineers
-
----
-
-# Why Learn PowerShell?
-
-PowerShell helps you:
-
-- Gather system information quickly
-- Automate repetitive tasks
-- Troubleshoot Windows issues
-- Manage users and groups
-- Control Windows services
-- Diagnose networking problems
-- Save time by writing scripts
-
-Example:
-
-Instead of opening 10 different Windows settings pages, one PowerShell command can collect all the information you need.
-
----
-
-# Topics Covered
+## Windows PowerShell
 
 - Introduction
 - Basic Commands
 - Objects & Pipeline
-- Variables
-- Processes
-- Services
+- System Administration
 - Networking
+- Services & Processes
 - Event Logs
 - Users & Groups
-- Scripts
 
 ---
 
-# Folder Structure
+## Linux Bash
 
-```text
-powershell/
-│
-├── README.md
-├── 01-introduction.md
-├── 02-basic-commands.md
-├── 03-pipeline-and-objects.md
-├── 04-system-administration.md
-├── 05-networking.md
-├── 06-services-and-processes.md
-├── 07-event-logs.md
-├── 08-users-and-groups.md
-│
-└── scripts/
-```
+(Coming Soon)
+
+- Introduction
+- Basic Commands
+- File System
+- Process Management
+- Networking
+- Package Management
+- User Management
 
 ---
 
-# Learning Goal
+# Scripts
+
+This handbook also includes commented administrative scripts for common IT Support tasks.
+
+Examples include:
+
+- System Information
+- Network Diagnostics
+- Process Monitoring
+- Service Management
+- User Administration
+
+---
+
+# Learning Objectives
 
 After completing this handbook, I should be able to:
 
-✅ Navigate PowerShell confidently
+- Navigate PowerShell confidently
+- Understand Bash fundamentals
+- Troubleshoot Windows systems
+- Troubleshoot Linux systems
+- Gather system information
+- Diagnose networking issues
+- Manage users and groups
+- Automate repetitive administrative tasks
 
-✅ Read and understand PowerShell commands
+---
 
-✅ Troubleshoot Windows systems
+# Intended Audience
 
-✅ Write simple administrative scripts
+This handbook is written for:
 
-✅ Automate repetitive tasks
+- Myself (future reference)
+- Beginner IT Support Engineers
+- Students learning PowerShell
+- Students learning Linux administration
 
-✅ Use PowerShell in real IT support scenarios
+Everything is explained in simple language with examples, real-world scenarios, and interview questions.
